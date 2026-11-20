@@ -1,5 +1,11 @@
 # make.fun GitHub Core Clone
 
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/akun-kerja/github-core-clone-01-codex/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/akun-kerja/github-core-clone-01-codex/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
+Bounty page: https://make.fun/bounty/github-core-clone-01
+
 A standalone, in-memory GitHub-compatible forge for the `github-core-clone-01` make.fun bounty. It runs on Node 22 with built-in modules and has no install-time or runtime dependencies.
 
 ## Run
